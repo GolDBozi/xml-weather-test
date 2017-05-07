@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<string>&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;current&gt;
+  &lt;city id="2643743" name="London"&gt;
+    &lt;coord lon="-0.13" lat="51.51"&gt;
+    &lt;/coord&gt;
+    &lt;country&gt;GB&lt;/country&gt;
+    &lt;sun rise="2017-05-07T04:20:32" set="2017-05-07T19:34:34"&gt;
+    &lt;/sun&gt;
+  &lt;/city&gt;
+  &lt;temperature value="53.74" min="50" max="57.2" unit="fahrenheit"&gt;
+  &lt;/temperature&gt;
+  &lt;humidity value="66" unit="%"&gt;
+  &lt;/humidity&gt;
+  &lt;pressure value="1021" unit="hPa"&gt;
+  &lt;/pressure&gt;
+  &lt;wind&gt;
+    &lt;speed value="8.05" name="Fresh Breeze"&gt;
+    &lt;/speed&gt;
+    &lt;gusts&gt;
+    &lt;/gusts&gt;
+    &lt;direction value="330" code="NNW" name="North-northeast"&gt;
+    &lt;/direction&gt;
+  &lt;/wind&gt;
+  &lt;clouds value="90" name="overcast clouds"&gt;
+  &lt;/clouds&gt;
+  &lt;visibility value="10000"&gt;
+  &lt;/visibility&gt;
+  &lt;precipitation mode="no"&gt;
+  &lt;/precipitation&gt;
+  &lt;weather number="804" value="overcast clouds" icon="04d"&gt;
+  &lt;/weather&gt;
+  &lt;lastupdate value="2017-05-07T11:20:00"&gt;
+  &lt;/lastupdate&gt;
+&lt;/current&gt;</string>

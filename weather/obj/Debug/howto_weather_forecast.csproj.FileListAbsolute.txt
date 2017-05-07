@@ -1,0 +1,24 @@
+C:\Users\νικ\Desktop\c#\weather\bin\Debug\howto_weather_forecast.exe
+C:\Users\νικ\Desktop\c#\weather\bin\Debug\howto_weather_forecast.pdb
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.csprojResolveAssemblyReference.cache
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.Form1.resources
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.Properties.Resources.resources
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.csproj.GenerateResource.Cache
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.exe
+C:\Users\νικ\Desktop\c#\weather\obj\Debug\howto_weather_forecast.pdb
+F:\D Eksamhno\weather\bin\Debug\howto_weather_forecast.exe
+F:\D Eksamhno\weather\bin\Debug\howto_weather_forecast.pdb
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.csprojResolveAssemblyReference.cache
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.Form1.resources
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.Properties.Resources.resources
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.csproj.GenerateResource.Cache
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.exe
+F:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.pdb
+E:\D Eksamhno\weather\bin\Debug\howto_weather_forecast.exe
+E:\D Eksamhno\weather\bin\Debug\howto_weather_forecast.pdb
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.csprojResolveAssemblyReference.cache
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.Form1.resources
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.Properties.Resources.resources
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.csproj.GenerateResource.Cache
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.exe
+E:\D Eksamhno\weather\obj\Debug\howto_weather_forecast.pdb
